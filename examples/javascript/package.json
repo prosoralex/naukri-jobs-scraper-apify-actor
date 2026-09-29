@@ -1,0 +1,8 @@
+{
+  "name": "naukri-jobs-scraper-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Naukri Jobs Scraper — India Job Listings Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
